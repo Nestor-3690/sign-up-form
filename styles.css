@@ -1,3 +1,5 @@
+@import 'node_modules/modern-normalize/modern-normalize.css';
+
 @font-face {
     font-family: 'norsebold';
     src: url('font/norse-bold-webfont.woff2') format('woff2'),
@@ -5,4 +7,14 @@
     font-weight: normal;
     font-style: normal;
 
+}
+
+figure {
+    height: 100vh;
+    width: 33vw;
+}
+
+img {
+    height: 100%;
+    width: 100%;
 }
