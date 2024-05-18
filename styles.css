@@ -29,6 +29,12 @@ img {
     max-inline-size: 100%;
 }
 
+/* End of reset */
+
+body {
+    display: flex;
+}
+
 aside {
     height: 100vh;
     width: clamp(400px, 40vw, 40vw);
