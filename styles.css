@@ -146,6 +146,10 @@ input:focus {
     outline: none;
 }
 
+input:invalid {
+    border: 1px solid red;
+}
+
 button {
     background-color: #455A63;
     border: none;
