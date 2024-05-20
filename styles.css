@@ -140,6 +140,12 @@ input {
     border-radius: 3px;
 }
 
+input:focus {
+    border: 1px solid #3B82F6;
+    box-shadow: 0px 0px 5px lightgray;
+    outline: none;
+}
+
 button {
     background-color: #455A63;
     border: none;
