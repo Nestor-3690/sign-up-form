@@ -116,3 +116,8 @@ section {
     font-size: 1.1rem;
     margin-bottom: 10px;
 }
+
+.form-inputs {
+    display: flex;
+    flex-direction: column;
+}
