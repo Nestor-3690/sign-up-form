@@ -72,3 +72,15 @@ img.logo-img {
     font-size: 4rem;
     opacity: 1;
 }
+
+.credits {
+    position: relative;
+    color: lightgray;
+    font-size: 0.6rem;
+    text-align: center;
+    top: -5vh;
+}
+
+.credits a {
+    color: lightgray;
+}
