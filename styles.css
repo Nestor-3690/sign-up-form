@@ -119,5 +119,9 @@ section {
 
 .form-inputs {
     display: flex;
+}
+
+.form-inputs > * {
+    display: flex;
     flex-direction: column;
 }
