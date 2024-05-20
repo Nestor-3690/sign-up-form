@@ -120,9 +120,22 @@ section {
 
 .form-inputs {
     display: flex;
+    gap: 5vw;
 }
 
 .form-inputs > * {
     display: flex;
     flex-direction: column;
+}
+
+label {
+    font-size: 0.55rem;
+    letter-spacing: 1px;
+    margin-top: 15px;
+    text-transform: uppercase;
+}
+
+input {
+    border: 1px solid #E5E7EB;
+    border-radius: 3px;
 }
