@@ -153,6 +153,12 @@ input:invalid {
     border: 1px solid red;
 }
 
+span {
+    color: red;
+    font-size: 0.55rem;
+    visibility: hidden;
+}
+
 button {
     background-color: #455A63;
     border: none;
