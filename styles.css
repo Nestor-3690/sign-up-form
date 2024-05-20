@@ -32,7 +32,7 @@ img {
 /* End of reset */
 
 :root {
-    --space-width: 30vh;
+    --space-width: 30vw;
     --space-min: 400px;
 }
 
@@ -68,7 +68,7 @@ header {
 
 img.logo-img {
     height: auto;
-    width: clamp(calc(var(--space-min) / 10), calc(var(--space-width) / 4), calc(calc(var(--space-width) * (4 / 3)) / 4));
+    width: clamp(calc(var(--space-min) / 10), calc(var(--space-width) / 5), calc(calc(var(--space-width) * (4 / 3)) / 5));
 }
 
 .logo-text {
