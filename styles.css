@@ -93,3 +93,13 @@ img.logo-img {
 main {
     background-color: rgb(250, 250, 250);
 }
+
+section {
+    padding: 15vh 0 40px 25px;
+    max-width: 66ch;
+    font-weight: 600;
+}
+
+.section-text-header {
+    margin-bottom: 20px;
+}
